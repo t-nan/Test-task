@@ -4,4 +4,4 @@
 Учебное приложение на Rails https://calm-refuge-84417.herokuapp.com , 
  https://github.com/t-nan/Developer_App
 
- #test
+ #test2
